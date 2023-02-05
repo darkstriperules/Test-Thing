@@ -1,0 +1,3 @@
+INPUT "Put your name here:";NAME
+INPUT "Type in your age:";AGE
+Print "Your name is " + NAME + " and your age is " + AGE
